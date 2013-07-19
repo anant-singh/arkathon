@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1 for binding GitHub repository
+Arkathon - Digital Signage Web Application for Event Management
+===============================================================
