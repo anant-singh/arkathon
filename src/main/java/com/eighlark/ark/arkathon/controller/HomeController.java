@@ -1,4 +1,4 @@
-package com.eighlark.ark.arkathon;
+package com.eighlark.ark.arkathon.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;

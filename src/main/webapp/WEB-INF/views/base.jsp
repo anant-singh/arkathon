@@ -36,10 +36,11 @@
             </p>
         <![endif]-->
 
-        <!-- Add your site or application content here -->
+        <!-- Add application content here -->
         <div>
             ${message}
         </div>
+
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <script>
             var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
