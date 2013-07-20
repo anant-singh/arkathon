@@ -15,9 +15,9 @@
         <link rel="icon" type="image/ico" href="/resources/favicon.ico">
         <link href='http://fonts.googleapis.com/css?family=Inconsolata' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" href="/resources/css/normalize.css">
-        <link rel="stylesheet" href="/resources/css/main.css">
         <link rel="stylesheet" href="/resources/css/bootstrap.min.css">
         <link rel="stylesheet" href="/resources/css/bootstrap-responsive.min.css">
+        <link rel="stylesheet" href="/resources/css/main.css">
         <link href="http://vjs.zencdn.net/4.1/video-js.css" rel="stylesheet">
 
         <!-- Javascripts -->
